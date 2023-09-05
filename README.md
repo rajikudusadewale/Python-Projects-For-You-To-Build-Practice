@@ -64,4 +64,5 @@ Certainly! Here are project ideas for practicing data analysis using Python:
    - **Resources**: [Scikit-learn Regression](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning).
    - **Data Source**: Airbnb data from [Inside Airbnb](http://insideairbnb.com/get-the-data.html).
 
-For each project, start by understanding the data, then preprocess and clean it using libraries like Pandas. Use visualization libraries like Matplotlib and Seaborn to explore the data. Finally, apply relevant machine learning or statistical techniques using Scikit-learn or other libraries to analyze the data or build models.
+For each project, start by understanding the data, then preprocess and clean it using libraries like Pandas. Use visualization libraries like Matplotlib and Seaborn to explore the data.
+Finally, apply relevant machine learning or statistical techniques using Scikit-learn or other libraries to analyze the data or build models.
