@@ -7,8 +7,10 @@ Certainly! Here are project ideas for practicing data analysis using Python:
 1. **User Behavior Analysis on a Website**
    - **Data Types**: Timestamps, user IDs, page URLs, click events.
    - **Visualizations**: Time series of page views, user funnel analysis, heatmap of clicks.
-   - **Resources**: [Pandas Documentation](https://pandas.pydata.org/docs/), [Seaborn Gallery](https://seaborn.pydata.org/examples/index.html).
-   - **Data Source**: Google Analytics data or sample web log data from [Kaggle](https://www.kaggle.com/shawon10/web-log-dataset).
+   - **Resources**: [Pandas Documentation](https://pandas.pydata.org/docs/),
+   - [Seaborn Gallery](https://seaborn.pydata.org/examples/index.html).
+   - **Data Source**: Google Analytics data or sample web log data from
+   - [Kaggle](https://www.kaggle.com/shawon10/web-log-dataset).
 
 2. **Stock Market Analysis**
    - **Data Types**: Date, stock prices, trading volume.
@@ -64,5 +66,6 @@ Certainly! Here are project ideas for practicing data analysis using Python:
    - **Resources**: [Scikit-learn Regression](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning).
    - **Data Source**: Airbnb data from [Inside Airbnb](http://insideairbnb.com/get-the-data.html).
 
-For each project, start by understanding the data, then preprocess and clean it using libraries like Pandas. Use visualization libraries like Matplotlib and Seaborn to explore the data.
+For each project, start by understanding the data, then preprocess and clean it using libraries like Pandas. 
+Use visualization libraries like Matplotlib and Seaborn to explore the data.
 Finally, apply relevant machine learning or statistical techniques using Scikit-learn or other libraries to analyze the data or build models.
